@@ -1,8 +1,8 @@
 ### Hi there 👋
-#Hola, mi nombre es Julián Dario Colmenares Saenz 👋
+Hola, mi nombre es Julián Dario Colmenares Saenz 👋
 ### Freelance Frontend Developer
 
-![https://github.com/JColmenares0212]
+
 
 Soy estudiante de Ingenieria de Sistemas y Computación de la Universidad Nacional de Colombia.
 
