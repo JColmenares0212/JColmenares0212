@@ -6,7 +6,7 @@ Hola, mi nombre es Julián Dario Colmenares Saenz 👋
 
 Soy estudiante de Ingenieria de Sistemas y Computación de la Universidad Nacional de Colombia.
 
-Soy amante de los videojuegos, los juegos de rol y cartas. En mi tiempo libre me gusta mucho crear modelos 3D en Blender y entrenar baloncesto🏀.
+Soy amante de los videojuegos y la comida. En mi tiempo libre me gusta mucho crear modelos 3D en Blender y entrenar baloncesto🏀.
 
 
 ## Tecnologías:
